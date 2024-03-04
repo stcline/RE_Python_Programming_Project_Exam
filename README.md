@@ -22,6 +22,6 @@ You made it!  We learned a lot about Python this semester.  Now it is time to sh
 3. Add and commit your script(s) to your local branch.
 4. Push changes to here.
 5. Build your project on a breadboard and create some kind of schematic of it. Could be something very formal from a site like Circuitlab or it could just be drawn on graph paper, photographed and uploaded here.
-6. Keep your project built so you can show it to everyone on Tuesday in class.
+6. Keep your project built so you can show it to everyone on Tuesday (4/19/24) in class.
 
 Good Luck :rocket:
